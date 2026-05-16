@@ -1,5 +1,13 @@
 ---
-tags: [switchports, configs]
+title: Network Design
+tags:
+  - switchports
+  - configs
+  - network
+draft: true
+publish: false
+created: 01-17-2026
+last-modified: 05-04-2026 20:05
 ---
 
 **Table of Contents**
@@ -43,6 +51,10 @@ VLAN 4 - 10.22.<font color="#cc241d">40</font>.0/23
 | Sakura | 10.22.10.2 |  untagged (VLAN1) | LAN
 | Haru | 10.22.10.3 | untagged (VLAN1) | LAN
 | Azuki | 10.22.10.4 | untagged (VLAN1) | LAN
+| Lady | 10.22.10.5 | untagged (VLAN1) | LAN
+| Leo | 10.22.10.6 | untagged (VLAN1) | LAN
+| Dimitri | 10.22.10.7 | untagged (VLAN1) | LAN
+| HomeNAS | 10.22.10.10 | untagged (VLAN1) | LAN
 
 
 

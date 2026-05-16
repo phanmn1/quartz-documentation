@@ -1,5 +1,8 @@
 ---
-tags: [tplink, vlan]
+tags:
+  - tplink
+  - vlan
+last-modified: 04-11-2026 10:04
 ---
 
 # Instructions
@@ -41,4 +44,7 @@ tags: [tplink, vlan]
 >>[!Todo] 
 >>Update Multilayer switch routing to make use of tp link capabilities
 
+# LACP 
+>[!todo]
+>Write about Link Aggregation for synology nas and tp link jetstream setup
 
